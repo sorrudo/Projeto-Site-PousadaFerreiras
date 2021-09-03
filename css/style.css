@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+.whats-icon {
+    color: green;
+    font-size: 20px;
+    padding-right: 7px;
+}
+.font-google {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.bg-color {
+    background-color: rgb(240, 240, 240);
+}
+
+.font-carrousel {
+    font-size: 50px;
+}
+
+.imagem-container {
+    width: 100%;
+    height: 100%;
+}
+
+.tm-carousel {
+    height: 300px;
+}
